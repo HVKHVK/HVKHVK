@@ -2,6 +2,7 @@
 
 <!--
 **HVKHVK/HVKHVK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hvkhvk&theme=algolia" alt="hvkhvk" /></p>
 
 Here are some ideas to get you started:
 
