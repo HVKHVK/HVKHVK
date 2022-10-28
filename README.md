@@ -1,18 +1,15 @@
-### Hi there 👋
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hvkhvk&theme=algolia" alt="hvkhvk" /></p>
+# Welcome
 
-<!--
-**HVKHVK/HVKHVK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Statistics 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages 
+
+## Activity 
+<img alt="hvkhvk's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hvkhvk&custom_title=HVKHVK's%20Contribution%20Graph&theme=react-dark" />
+
+## Pins
+[![@hvkhvk's Holopin board](https://holopin.me/hvkhvk)](https://holopin.io/@hvkhvk)
+
+
